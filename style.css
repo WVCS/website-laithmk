@@ -25,3 +25,7 @@ a {
 a:hover {
   background-color: #823200;
 }
+
+body {
+  background-color: tan;
+}
